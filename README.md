@@ -4,3 +4,6 @@ This is a webapp that was created to show the Additive Regression Model to predi
 `stocks = ("AAPL", "GOOG", "MSFT", "GME", "DNUT")`
 
 By adding any stock ticker or by removing a stock ticker.
+
+## Overview
+![picture alt](https://giphy.com/gifs/ypdie7AP4L34ONPNf1)
