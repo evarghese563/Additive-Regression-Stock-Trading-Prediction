@@ -6,4 +6,4 @@ This is a webapp that was created to show the Additive Regression Model to predi
 By adding any stock ticker or by removing a stock ticker.
 
 ## Overview
-![gif](https://giphy.com/gifs/ypdie7AP4L34ONPNf1)
+![alt gif](https://giphy.com/gifs/ypdie7AP4L34ONPNf1)
